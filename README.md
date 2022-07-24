@@ -12,4 +12,4 @@ The final project looks like this :
 
 If the user is successfully signed up then it shows following message :![Screenshot 2022-07-24 at 7 06 30 PM](https://user-images.githubusercontent.com/63348665/180649555-ed40447c-6d4d-4d0a-a1c5-7effc4e9be5c.png)
 
-Else it will dispay the following error message : ![Screenshot 2022-07-24 at 6 18 23 PM](https://user-images.githubusercontent.com/63348665/180649595-78c0d39a-a59d-4d98-9518-ae61389fcd28.png)
+Else it will dispay the following error message and the user can click on Try Again and user will be redirected to home page : ![Screenshot 2022-07-24 at 6 18 23 PM](https://user-images.githubusercontent.com/63348665/180649595-78c0d39a-a59d-4d98-9518-ae61389fcd28.png)
