@@ -1,4 +1,4 @@
-# Newsletter-Signup
+# Signup Template
 This is a signin template in which the user credentials are saved using mailchimp api and thus user is registered.
 
 Checkout the live project here : https://immense-meadow-00724.herokuapp.com/
